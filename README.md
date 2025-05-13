@@ -1,6 +1,6 @@
 # NeuroStartUp
 
-![logo] (https://github.com/Pantoufflee/homework/blob/main/logo.png)
+![logo] (C:\Users\bludi\homework\logo.png)
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием 
  новейших технологий искусственного интеллекта.
